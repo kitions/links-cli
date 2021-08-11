@@ -1,0 +1,25 @@
+{
+  "name": "links-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "init": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitions/links-cli.git"
+  },
+  "author": "kitions",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kitions/links-cli/issues"
+  },
+  "homepage": "https://github.com/kitions/links-cli#readme",
+  "dependencies": {
+    "commander": "^8.1.0"
+  }
+}
